@@ -14,7 +14,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-         My name is Tobi, a software developer.I started software in 2018 and since then i have worked 
+         My name is Tobi Olasimbo, a software developer.I started software in 2018 and since then i have worked 
          on several projects using Reactjs for frontend development and Django Rest Framework for backend .
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
