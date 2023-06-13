@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a fullstack developer, started my software career in 2018.I have had the exposure of working with several technologies, which includes: ReactJs,  Javascript, Django, Django Rest Framework, Relational databases as well as a good familiarity with different styling technologies.
+      I am a fullstack developer, started my software career in 2020.I have had the exposure of working with several technologies, which includes: ReactJs,  Javascript, Django, Django Rest Framework, Relational databases as well as a good familiarity with different styling technologies.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

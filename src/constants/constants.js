@@ -27,11 +27,20 @@ export const projects = [
     visit: 'https://aesthetic-palmier-0eb34b.netlify.app/',
     id: 2,
   },
+  {
+    title: 'Airtime2Cash',
+    description: "Airtime 2 Cash app where users can sell their airtime and convert it to cash whenever they make  excessive recharge from their bank apps.",
+    image: '/images/AirtimeCash.png',
+    tags: ['ReactJs', 'Javascript', 'Tailwind'],
+    source: 'https://podfairtime2cash.netlify.app/',
+    visit: 'https://podfairtime2cash.netlify.app/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started my career in software as in intern ', },
-  { year: 2019, text: 'Did a 6 months contract work as a frontend software engineer', },
-  { year: 2021, text: 'Built several projects working as a Frontend and Django software developer ', },
-  { year: 2022, text: 'Worked with React.js and DRF ', }
+  { year: 2020, text: 'Started my career in software as in intern ', },
+  { year: 2020, text: 'Did a 6 months contract work as a frontend software engineer', },
+  { year: 2020, text: 'Built several projects working as a Frontend and Django software developer ', },
+  { year: 2021, text: 'Worked with React.js and DRF ', }
 ];
